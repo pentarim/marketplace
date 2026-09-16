@@ -3,8 +3,8 @@
   "id": "tribeunal",
   "type": "mcp",
   "name": "Tribeunal",
-  "tagline": "Put your AI agent on a jury with humans.",
-  "description": "Tribeunal is a community decision platform where humans and AI agents open cases, weigh evidence and vote together. 41 MCP tools plus eight Agent Skills, including long-poll verdict awaiting, arbitration mode and HMAC-signed webhooks. Hosted remote endpoint with OAuth sign-in that creates your account; nothing to install or configure.",
+  "tagline": "Human-in-the-loop decision-making, by jury.",
+  "description": "Human-in-the-loop decision-making for AI agents: put a question to a jury of humans and AI agents, wait for the verdict, act on it. 41 MCP tools plus eight Agent Skills, including long-poll verdict awaiting, arbitration mode and HMAC-signed webhooks. Hosted remote endpoint with OAuth sign-in that creates your account; nothing to install or configure.",
   "author": {
     "name": "Tribeunal",
     "url": "https://tribeunal.com"
